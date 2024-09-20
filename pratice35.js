@@ -160,6 +160,6 @@
 //     console.log("armstrong num")
 // }else{
 //   console.log(" not armstrong num")   
-// }
+// }mmm
 
 
